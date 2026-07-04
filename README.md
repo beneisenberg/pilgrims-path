@@ -56,7 +56,7 @@ Plain HTML, CSS, and vanilla JavaScript — no frameworks, no dependencies. Grap
 
 ## 🙏 Credits & license
 
-Created as a study aid for a Church History I course. Educational content is drawn from the course lectures and lesson-review materials. Feel free to fork, adapt, and share for personal and educational use.
+Created as a study aid for a Church History I course using Claude Fable 5 . Educational content is based on the course lectures and lesson-review materials. Feel free to fork, adapt, and share for personal and educational use.
 
 ---
 
